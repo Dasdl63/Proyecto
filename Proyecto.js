@@ -82,4 +82,4 @@ if(cantidad_hijos)
   alert ("El recargo extra por su cantidad de hijos es: "+cantidad_hijos*precio_base*hijos_recargo);
 }
 recargo_final= recargo_final+precio_base
-alert ("el recargo final es de "+recargo_final)
+alert ("El recargo final es de: "+recargo_final)
