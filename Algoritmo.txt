@@ -1,0 +1,13 @@
+Mi algoritmo para plantear el programa fue el siguiente:
+
+1. Solicitar el nombre del cliente
+2. Solicitar la edad del cliente
+3. Analizar el dato obtenido en la variable "edad"
+4. Siendo mayor a 18, preguntar si se encuentra casado
+5. Al confirmar, preguntar la edad del esposo / la esposa
+6. Guardar el dato obtenido en la variable de la edad del conyuge
+7. Preguntar si tiene hij@s
+8. Al confirmar, preguntar la cantidad de hij@s
+9. Con la informacion obtenida, realizar los respectivos calculos
+10. Al analizar la información obtenida
+11. Mostrar los calculos por cada uno y el total de esto.
