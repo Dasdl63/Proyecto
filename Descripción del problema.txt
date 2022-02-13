@@ -1,0 +1,17 @@
+Según lo explicado, la falta de la automatización de un programa 
+que pueda hacer calculos con respecto a cotizaciones está haciendo 
+perder clientes a la empresa. Debido a que, manualmente se pueden 
+sacar solamente 50 cotizaciones al día, muchos posibles clientes 
+pueden decidir no hacer su cotización debido a la tardanza. 
+Por ello mismo se ha optado por realizar un programa que pueda
+hacernos saber las cotizaciones automaticamente solamente evaluando
+algunos datos ingresados por cada cliente. En estos datos va a haber
+criterios que cambian debido a la edad de los clientes, en caso
+de ellos tener conyuge, va a variar en la edad del conyugue y en 
+caso de tener hijos, esto variará en la cantidad de hijos que cada
+de estos tenga. Debido a la variacion de datos obtenidos por cada 
+cliente, al finalizar, el programa devolverá el valor calculado con 
+respecto a la  información ingresada por cada cliente. Debido a este
+programa, permitirá a los clientes y posibles clientes obtener una
+cotización final en menos de dos minutos, ahorrando así dinero y tiempo
+para la empresa, dando así la oportunidad de obtener más clientes.
